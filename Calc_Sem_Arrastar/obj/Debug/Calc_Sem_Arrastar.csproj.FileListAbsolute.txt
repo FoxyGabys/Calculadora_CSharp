@@ -1,0 +1,8 @@
+C:\Users\Asus\Documents\C# Codes Gaby\Calc_Sem_Arrastar\Calc_Sem_Arrastar\obj\Debug\Calc_Sem_Arrastar.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\C# Codes Gaby\Calc_Sem_Arrastar\Calc_Sem_Arrastar\obj\Debug\Calc_Sem_Arrastar.MainForm.resources
+C:\Users\Asus\Documents\C# Codes Gaby\Calc_Sem_Arrastar\Calc_Sem_Arrastar\obj\Debug\Calc_Sem_Arrastar.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\C# Codes Gaby\Calc_Sem_Arrastar\Calc_Sem_Arrastar\bin\Debug\Calc_Sem_Arrastar.exe.config
+C:\Users\Asus\Documents\C# Codes Gaby\Calc_Sem_Arrastar\Calc_Sem_Arrastar\bin\Debug\Calc_Sem_Arrastar.exe
+C:\Users\Asus\Documents\C# Codes Gaby\Calc_Sem_Arrastar\Calc_Sem_Arrastar\bin\Debug\Calc_Sem_Arrastar.pdb
+C:\Users\Asus\Documents\C# Codes Gaby\Calc_Sem_Arrastar\Calc_Sem_Arrastar\obj\Debug\Calc_Sem_Arrastar.exe
+C:\Users\Asus\Documents\C# Codes Gaby\Calc_Sem_Arrastar\Calc_Sem_Arrastar\obj\Debug\Calc_Sem_Arrastar.pdb

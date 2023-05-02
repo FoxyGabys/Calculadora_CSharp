@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Sem_Arrastar", "Calc_Sem_Arrastar\Calc_Sem_Arrastar.csproj", "{063DCE88-A2BB-44F7-B20E-0844AB255AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063DCE88-A2BB-44F7-B20E-0844AB255AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063DCE88-A2BB-44F7-B20E-0844AB255AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063DCE88-A2BB-44F7-B20E-0844AB255AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063DCE88-A2BB-44F7-B20E-0844AB255AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
